@@ -2,3 +2,5 @@ This is the main branch
 Изменение из ветки main
 Изменение из ветки conflict-branch
 Новое изменение из ветки main
+Новое изменение из ветки conflict-branch
+
